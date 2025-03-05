@@ -35,7 +35,6 @@ mushroom-classification-ml/
 │
 │── requirements.txt               # Dependencias del proyecto
 │── README.md                      # Documentación del proyecto
-│── .gitignore                      # Archivos a ignorar en Git
 ```
 
 ## Instalación y Uso
