@@ -7,6 +7,9 @@ Este proyecto utiliza algoritmos de Machine Learning para clasificar setas en co
 - `Clasificación_Setas.ipynb`: Notebook con el código para la carga de datos, preprocesamiento, entrenamiento del modelo y evaluación.
 - `README.md`: Documento con información sobre el proyecto.
 - `requirements.txt`: Lista de dependencias necesarias para ejecutar el proyecto.
+- `knn_model.pkl`: Modelo entrenado utilizando el algoritmo K-Nearest Neighbors.
+- `svm_model.pkl`: Modelo entrenado con Support Vector Machine (SVM).
+- `random_forest_model.pkl`: Modelo entrenado con Random Forest.
 
 ## Instalación y Uso
 
